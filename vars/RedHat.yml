@@ -17,7 +17,8 @@ __php_modules:
   - php-pecl-apcu
   - php-pecl-imagick
   - php-pecl-mcrypt
-  - php-pecl-memcached
+  - php-pecl-memcache
+  - php-pecl-zip
   - php-process
   - php-soap
   - php-xml
